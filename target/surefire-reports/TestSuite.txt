@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 6.022 s <<< FAILURE! - in TestSuite
+setUp(com.qa.opencart.tests.LoginPageTest)  Time elapsed: 4.792 s  <<< FAILURE!
+com.qa.opencart.exceptions.FrameworkExceptions: Invalid browser name exception
+
